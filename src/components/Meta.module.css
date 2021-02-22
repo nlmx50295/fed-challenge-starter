@@ -1,0 +1,20 @@
+.meta {
+  font-size: .625rem; /* 10px / 16px */
+  flex: 1;
+  margin-bottom: 1em;
+}
+
+.time {
+  background-image: url('/img/icons/icn_timer_line.png');
+  padding-left: calc(12px + .3em);
+  background-repeat: no-repeat;
+  background-position: left center;
+  margin-right: .75em;
+}
+
+.size {
+  background-image: url('/img/icons/icn_distance_line.png');
+  padding-left: calc(12px + .3em);
+  background-repeat: no-repeat;
+  background-position: left center;  
+}

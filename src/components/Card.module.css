@@ -1,0 +1,24 @@
+.card {
+  background-color: #fff;
+  border-radius: .3em;
+  box-shadow: 0 0 .25em 0 #aaa; /* 4px / 16px */
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.card.cardActive {
+  box-shadow: 0 .625em .625em 0 #ccc; /* 10px / 16px */
+}
+
+.banner {
+  position: relative;
+}
+
+.content {
+  padding: 1em;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

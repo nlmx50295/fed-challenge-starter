@@ -1,0 +1,12 @@
+.cardsContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
+  grid-gap: 1.5rem;
+  margin: 6.75em;
+
+  background-color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  color: #2E3134;
+}

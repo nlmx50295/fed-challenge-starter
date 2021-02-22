@@ -1,0 +1,13 @@
+.viewDetails {
+  font-family: 'Open Sans', sans-serif;
+  font-size: .875rem; /* 14px / 16px */
+  color: #0069D2;
+  background-color: initial;
+  border: none;
+  padding: 0;
+}
+
+.viewDetails:focus,
+.viewDetails:hover {
+  text-decoration: underline;
+}

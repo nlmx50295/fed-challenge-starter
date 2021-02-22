@@ -1,0 +1,80 @@
+{
+  "cards" : [
+    {
+      "id": 1,
+      "type": "single",
+      "hero": "lake-inniscarra-thumb.jpg",
+      "title": "Lake Inniscarra, Ireland—Pyramid",
+      "avatar": "lake-inniscarra-trainer.jpg",
+      "avatarTitle": "Lake Inniscarra avatar",
+      "time": "30:53",
+      "size": "6,248 M"
+    },
+    {
+      "id": 2,
+      "type": "playlist",
+      "hero": "performance-series-thumb.jpg",
+      "workoutsNumber": "9",
+      "title": "Performance Series",
+      "avatar": "performance-series-trainer.jpg",
+      "avatarTitle": "Francia Susan avatar"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "hero": "slow-pulls-thumb.jpg",
+      "title": "Slow Pulls and Fast Intervals",
+      "avatar": "slow-pulls-trainer.jpg",
+      "avatarTitle": "Alex Silver Fagan avatar",
+      "time": "44:13",
+      "size": "9,948 M"
+    },
+    {
+      "id": 4,
+      "type": "playlist",
+      "hero": "20-minutes-to-toned-thumb.jpg",
+      "workoutsNumber": "12",
+      "title": "20 Minutes to Toned",
+      "avatar": "20-minutes-to-toned-trainer.jpg",
+      "avatarTitle": "Gregory Alex avatar"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "hero": "charles-race-thumb.jpg",
+      "title": "Charles Race, Boston, Massachusetts",
+      "avatar": "charles-race-trainer.jpg",
+      "avatarTitle": "Whipple Mary avatar",
+      "time": "36:22",
+      "size": "8,648 M"
+    },
+    {
+      "id": 6,
+      "type": "playlist",
+      "hero": "full-body-hiit-thumb.jpg",
+      "workoutsNumber": "12",
+      "title": "Full-Body HIIT Series",
+      "avatar": "full-body-hiit-trainer.jpg",
+      "avatarTitle": "Eden Hannah avatar"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "hero": "kafue-river-thumb.jpg",
+      "title": "Kafue River, Zambia—Power Stroke Pyramid",
+      "avatar": "kafue-river-trainer.jpg",
+      "avatarTitle": "Nanchengwa Desmond avatar",
+      "time": "22:22",
+      "size": "4,660 M"
+    },
+    {
+      "id": 8,
+      "type": "playlist",
+      "hero": "shred-and-burn-thumb.jpg",
+      "workoutsNumber": "16",
+      "title": "Shred & Burn Series",
+      "avatar": "shred-and-burn-trainer.jpg",
+      "avatarTitle": "Gideon Akande avatar"
+    }   
+  ]
+}

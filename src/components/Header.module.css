@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: .5em;
+  width: 100%;
+}
+
+.title {
+  margin: 0;
+  font-size: 1rem;
+  flex: 1;
+}
+
+.avatar {
+  margin-left: 1em;
+  border-radius: 0.3em;
+}
